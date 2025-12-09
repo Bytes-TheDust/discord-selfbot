@@ -2,6 +2,7 @@
 
 ### This Is My First JS Project 😊
 Pls Gimme a Star
+> -# asnyc is goated
 ___
 
 
