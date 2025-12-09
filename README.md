@@ -64,5 +64,8 @@ ___
 - `$fl00d <message>` — Continuously send a message until new `$fl00d` command
 
 
+# Enjoy
+If You Have Any Questions, Contact My Discord!
+[Discord](https://discordapp.com/users/1447650490341920951)
 
 
