@@ -65,7 +65,8 @@ ___
 
 
 # Enjoy
-If You Have Any Questions, Contact My Discord!\n
+If You Have Any Questions, Contact My Discord
+
 [Discord](https://discordapp.com/users/1447650490341920951)
 
 
