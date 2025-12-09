@@ -29,7 +29,7 @@ git clone https://github.com/Bytes-TheDust/discord-selfbot.git
 }
 ```
 ## 2. Installation
- - Install Node.js For Your Server
+ - Install Node.js & npm For Your Server
  - Run The Following Command
 ```
 npm install discord.js-selfbot-v13@latest axios fs
