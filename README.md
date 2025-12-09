@@ -4,11 +4,13 @@
 Pls Gimme a Star
 ___
 
-## 1. Requirements
+
+# Requirements
  - node.js
  - discord.js-v13-self
  - axios
  - fs
+
 
 # Setup
 
@@ -44,9 +46,23 @@ node index.js
 ```
 ___
 
+
 # Features
- - Type $help To See All Commands
- - Features Will Be Updated!
+- `$help` — Show all available commands
+- `$ping` — Responds with "pong"
+- `$send <message> [count]` — Send a message multiple times (max 10)
+- `$purge <number>` — Delete recent messages (max 20)
+- `$admininfo` — List servers with admin permissions
+- `$ipinfo <ip>` — Show IP info and save to DB (db/ipinfo)
+- `$reactall <user-ID> [True/False]` — Enable/disable auto-react
+- `$reactall <init>` — Cancel all auto-react
+- `$autoreply <user-ID> <content> <reply>` — Enable auto-reply
+- `$autoreply <init>` — Cancel all auto-replies
+- `$userinfo <user-ID>` — Show user info
+- `$serverinfo <server-ID/Optional>` — Show server info
+- `$btcprice` — Show current crypto prices (Bitcoin, Litecoin, Ethereum, TRX, Monero)
+- `$fl00d <message>` — Continuously send a message until new `$fl00d` command
+
 
 
 
