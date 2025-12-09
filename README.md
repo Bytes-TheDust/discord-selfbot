@@ -14,6 +14,9 @@ ___
  - fs
 
 ## 2. Clone The Repo
+```
+git clone https://github.com/Bytes-TheDust/discord-selfbot.git
+```
 
 ## 3. Installation
  - Install Node.js For Your Server
