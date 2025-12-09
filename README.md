@@ -1,5 +1,4 @@
 # discord-selfbot
-___
 
 ### This Is My First JS Project 😊
 Pls Gimme a Star
