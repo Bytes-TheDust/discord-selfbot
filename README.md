@@ -60,7 +60,6 @@ ___
 - `$autoreply <user-ID> <content> <reply>` — Enable auto-reply
 - `$autoreply <init>` — Cancel all auto-replies
 - `$userinfo <user-ID>` — Show user info
-- `$serverinfo <server-ID/Optional>` — Show server info
 - `$btcprice` — Show current crypto prices (Bitcoin, Litecoin, Ethereum, TRX, Monero)
 - `$fl00d <message>` — Continuously send a message until new `$fl00d` command
 
