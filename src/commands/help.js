@@ -24,7 +24,6 @@ module.exports = {
             `[+] ${prefix}autoreply <user-ID> <content> <reply> : Auto-Reply Enable/Disable\n` +
             `[+] ${prefix}autoreply <init> : Kills All Auto-Reply\n` +
             `[+] ${prefix}userinfo <user-ID> : Shows User-Info\n` +
-            `[+] ${prefix}serverinfo <server-ID/Optional> : Shows Server-Info\n` +
             `[+] ${prefix}btcprice : Shows Current Crypto Price.\n` +
             `[+] ${prefix}fl00d <message> : Floods Channel With message.\n` +
             `[+] ${prefix}fl00d stop : Stops Current Flood.\n` +
